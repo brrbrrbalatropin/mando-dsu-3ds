@@ -1,0 +1,13 @@
+build/
+*.elf
+*.3dsx
+*.smdh
+*.cia
+*.o
+*.d
+*.map
+*.lst
+__pycache__/
+*.pyc
+.vscode/
+.claude/
